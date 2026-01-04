@@ -1,6 +1,6 @@
 <h1>AHMAD HASSAN'S MACROPAD</h1>
 <h2>Process of making</h2>
-<p>I used KiCad for designing the PCB which involved some steps including designing both the schematic and the pcb and finally routing the pcb. As for the Case I used Fusion360. It was quite a smooth built however I did run into several issues like for example finding the correct symbol and footprint for the **SK6812MINI-E** and fixing the dimensions in the 3d model. Both of which however now are fixed and fine :).</p>
+<p>I used KiCad for designing the PCB which involved some steps, firstly I had to design the schematic and the pcb and then finally route the pcb. As for the Case I used Fusion360. It was quite a smooth built however I did run into several issues like for example finding the correct symbol and footprint for the **SK6812MINI-E** and fixing the dimensions in the 3d model. Both of which however now are fixed and fine :).</p>
 <h2>Firmware</h2>
 <h2>BOM:</h2>
 <li>1x XIAO RP2040</li>
@@ -21,8 +21,8 @@
 <h2>3D Case:</h2>
 <table>
   <tr>
-    <td><img width="441" height="511" alt="Screenshot 2026-01-04 204633" src="https://github.com/user-attachments/assets/3517a8f6-1119-4af0-b0c0-1eb2470477b3" /></td>
-    <td><img width="1017" height="662" alt="Screenshot 2026-01-04 210130" src="https://github.com/user-attachments/assets/47f2f839-e551-4e12-b03b-58d2ceaaa739" /></td>
-    <td><img width="501" height="569" alt="Screenshot 2026-01-04 210142" src="https://github.com/user-attachments/assets/53f278cb-cb50-4a85-9ea6-9f6dda35968e" /></td>
+    <td><img width="399" height="462" alt="download" src="https://github.com/user-attachments/assets/cefed31a-22a9-421f-add6-2d1ae036f846" /></td>
+    <td><img width="710" height="462" alt="download (1)" src="https://github.com/user-attachments/assets/c841b5f4-0933-4259-91bb-aa6acefaf74e" /></td>
+    <td><img width="407" height="462" alt="download (2)" src="https://github.com/user-attachments/assets/cd297d14-1f0e-4522-b537-d5c2bc887fbc" /></td>
   </tr>
 </table>
