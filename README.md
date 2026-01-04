@@ -1,4 +1,5 @@
 <h2>BOM:</h2>
+<li>
 - 1x XIAO RP2040
 - 8x SK6812 MINI-E Leds
 - 8x Cherry MX Switches
@@ -9,7 +10,7 @@
 - 4x M3x16 Bolt
 - 4x M3 Heatset
 - 1x Case (2 printed parts - Top Case and Bottom Case)
-
+</li>
 <h1>Schematic:</h1>
 <img width="1300" height="806" alt="Screenshot 2026-01-03 182606" src="https://github.com/user-attachments/assets/f6a07fbd-04bf-43ba-828f-cafcc73552d3" />
 <h1>PCB:</h1>
