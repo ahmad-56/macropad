@@ -1,7 +1,7 @@
 <h1>AHMAD HASSAN'S MACROPAD</h1>
 <h2>Process of making</h2>
-<p>I used KiCad for designing the PCB which involved some steps, firstly I had to design the schematic and the pcb and then finally route the pcb. As for the Case I used Fusion360. It was quite a smooth built however I did run into several issues like for example finding the correct symbol and footprint for the **SK6812MINI-E** and fixing the dimensions in the 3d model. Both of which however now are fixed and fine :).</p>
-<h2>Firmware</h2>
+<p>I created this macropad using 8 switches, 1 rp2040, 1 oled display, 1 rotary encoder switch and 8 leds. This was my first hardware project and I enjoyed making it. In this project I used KiCad for designing the PCB which involved several steps including making the schematic and then designing and routing the PCB. As for the Case I used Fusion360. Lastly, I used ____ for the keyboard’s Firmware ___________  .Overall the experience of using all softwares was quite smooth. The only time I did run into issues were when for example finding the correct symbol and footprint for the SK6812MINI-E and fixing the dimensions in the 3d model. Both of which I fixed.</p>
+<h2>Firmware:</h2>
 <h2>BOM:</h2>
 <li>1x XIAO RP2040</li>
 <li>8x SK6812 MINI-E Leds</li>
@@ -9,7 +9,7 @@
 <li>8x DSA Keycaps</li>
 <li>9x 1N4148 DO-35 Diodes.</li>
 <li>1x 0.91" 128x32 OLED Display</li>
-<li>1x EC11 Rotary Encoder</li>
+<li>1x EC11 Rotary Encoder Switch</li>
 <li>4x M3x16 Bolt</li>
 <li>4x M3 Heatset</li>
 <li>1x Case (2 printed parts - Top Case and Bottom Case)</li>
