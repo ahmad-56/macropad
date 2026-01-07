@@ -1,12 +1,12 @@
 <h1>AHMAD HASSAN'S MACROPAD</h1>
 <h2>Process of making:</h2>
-<p>I created this macropad using 8 switches, 1 rp2040, 1 oled display, 1 rotary encoder switch and 8 leds. This was my first hardware project and I enjoyed making it. In this project I used KiCad for designing the PCB which involved several steps including making the schematic and then designing and routing the PCB. As for the Case I used Fusion360. Lastly, I used ____ for the keyboard’s Firmware ___________  .Overall the experience of using all softwares was quite smooth. The only time I did run into issues were when for example finding the correct symbol and footprint for the SK6812MINI-E and fixing the dimensions in the 3d model. Both of which I fixed.</p>
+<p>I created this macropad using 8 switches, 1 rp2040, 1 oled display, 1 rotary encoder switch and 8 leds. This was my first hardware project and I enjoyed making it. In this project I used KiCad for designing the PCB which involved several steps including making the schematic and then designing and routing the PCB. As for the Case I used Fusion360. Lastly, I used kmk firmware for the keyboard’s Firmware. Overall the experience of using all softwares was quite smooth. The only time I did run into issues were when for example finding the correct symbol and footprint for the SK6812MINI-E and fixing the dimensions in the 3d model. Both of which I fixed.</p>
 <h2>Firmware:</h2>
-<p>This hackpad uses kmk firmware for everything.
+I used the kmk Firware for the entire keyboard.
 <li>The Rotary Encoder changes volume. Pressing it wouldmute.</li>
 <li>The 8 keys currently are used for different purposes but mainly 4 of them are arrow keys other contain print screen, delete, mute mic and close camera.</li>
 <li>The OLED is </li>
-I might change features in future but that's it for now.</p>
+<p>I might change features in future but that's it for now.</p>
 <h2>BOM:</h2>
 <li>1x XIAO RP2040</li>
 <li>8x SK6812 MINI-E Leds</li>
